@@ -18,7 +18,8 @@ Firstly, we delve into the design principles behind the instrumentation abstract
 
 This tutorial offers valuable insights for audiences from both the ML algorithm and system development communities. The introduced Amanda instrumentation framework holds the potential to facilitate the development of innovative optimization algorithms and aid system developers in analyzing DNN models.
 
-## Project: 
+## Project
+
 [Amanda DNN Instrumentation Framework](https://github.com/uchuhimo/amanda)
 
 ## Time
