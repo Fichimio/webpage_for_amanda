@@ -11,22 +11,22 @@ The tutorial aims to present a comprehensive overview of the proposed Amanda ins
 ## Project: 
 [Amanda DNN Instrumentation Framework](https://github.com/uchuhimo/amanda)
 
-## Time: 
+## Time
 Sunday, April 28th, 2024, 08:30am-12:00am.
 
-Location: This tutorial will be held at Scripps II of Hilton La Jolla Torrey Pines, ASPLOS 2024, San Diego.
+## Location
+ This tutorial will be held at Scripps II of Hilton La Jolla Torrey Pines, ASPLOS 2024, San Diego.
 
-Schedule:
-Time
-Topic
-08:30-10:00
-Introduction of Amanda framework
-10:00-10:30
-Tea Break
-10:30-11:30
-Short course on Model Compression
-11:30-12:00
-Practice and demo
+## Schedule
+
+|Time|Topic|
+|---|---|
+|08:30-10:00|Introduction of Amanda framework|
+|10:00-10:30|Tea Break|
+|10:30-11:30|Short course on Model Compression|
+|11:30-12:00|
+|Practice and demo|
 
 
-Organizer: ReArch Lab, Shanghai Jiao Tong University.
+## Organizer 
+[ReArch Lab](https://github.com/SJTU-ReArch-Group), Shanghai Jiao Tong University.
