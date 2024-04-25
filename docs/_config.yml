@@ -2,5 +2,7 @@ title: Amanda tutorial
 description:
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
+github:
+  repository_url: https://github.com/uchuhimo/amanda
 plugins:
 - jekyll-remote-theme
